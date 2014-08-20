@@ -1,0 +1,4 @@
+atdstrings
+==========
+
+ATD strings converter
