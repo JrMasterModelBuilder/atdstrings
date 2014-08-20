@@ -20,10 +20,10 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 /*
 To compile:
 
-Clang:
-clang++ atdstrings.cpp -o atdstrings
+Mac Clang:
+clang++ atdstrings.cpp -o atdstrings -arch i386 -arch x86_64
 
-MinGW:
+Win MinGW:
 g++ atdstrings.cpp -o atdstrings -static
 */
 
